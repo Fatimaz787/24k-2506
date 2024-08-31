@@ -1,0 +1,45 @@
+Objective 2: pseudocode
+TASK1: FIND THE MAXIMUM NUMBERS IN ANY THREE VARIABLE 
+Start
+Input num1 
+Input num2
+Input num3
+Process steps
+if num1>num2 and num1>num3
+print “num1 as max”
+ ELSE 
+ If Num2>num1 and num2> num3
+Print “num2 as max”
+ELSE 
+Print”num3 as max”
+END
+
+
+
+
+
+
+
+Task2: Take three variables as input and add them without using the + operator 
+START 
+INPUT NUM1
+INPUT NUM2
+INPUT NUM3
+PROCESSS
+SUM= NUM1 –(-NUM2) -(-NUM3)
+PRINT SUM 
+END 
+TASK3: Create a small calculator which only does + or – operations.
+START 
+PRINT “ENTER TWO NUMBERS AND AN OPERATOR ‘+’OR’- ‘“
+INPUT NUM1 
+INPUT OPERATOR 
+INPUT NUM2 
+PROCESS 
+IF THE OPERATOR ==’+’
+PRINT” THE RESULT IS”, SUM
+SUM=NUM1 +NUM2
+ELSE OPERATOR ==’- ‘
+SUB=NUM1-NUM2
+PRINT “THE RESULT IS”, SUB
+END
